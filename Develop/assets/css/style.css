@@ -16,16 +16,19 @@ header {
     background-color: #2a607c;
     color: #ffffff;
 }
+
 /* Colors the 'Hori' and 'n' in Logo */
 header h1 {
     display: inline-block;
     font-size: 48px;
 }
 
+/* Colors the 'seo' in Logo */
 header h1 span {
     color: #d9dcd6;
 }
 
+/* Styles navigation bar */
 header nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -34,11 +37,13 @@ header nav {
     font-size: 20px;
 }
 
+/* Format for location of navigation links */
 header nav ul li {
     display: inline-block;
     margin-left: 25px;
 }
 
+/* Styles links */
 a {
     text-decoration: none;
     color: #ffffff;
@@ -48,6 +53,7 @@ p {
     font-size: 16px;
 }
 
+/* Formats main image at top of website */
 div {
     height: 800px;
     width: 100%;
@@ -73,6 +79,7 @@ main {
     margin-left: 20px;
 }
 
+/* Styling of main body of website */
 article {
     margin-bottom: 20px;
     padding: 50px;
@@ -90,6 +97,8 @@ article h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
+
+/* Styling for boxes to right of the page */
 section {
     margin-right: 20px;
     padding: 20px;
