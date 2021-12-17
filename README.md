@@ -19,5 +19,6 @@ Initially, the code contained many classes and divs. I changed many of the div t
 
 Notes added to both the CSS Stylesheet and HTML doc.
 
+![alt](README.png)
 ---
 © 2021 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
