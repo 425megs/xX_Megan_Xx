@@ -1,5 +1,7 @@
 # Refactoring Horiseon Webpage
 
+
+
 ## User Story
 
 ```
@@ -16,7 +18,6 @@ This webpage was built to highlight the company, Horiseon Social Solution Servic
 Initially, the code contained many classes and divs. I changed many of the div tags to more fitting section tags to reduce redundancies and duplicate classes/ids. I was able to reduce the total number of lines on the CSS sheet by about 70 lines by streamlining these tag names. This has helped improve the codebase's long-term sustainability and overall readability of the code.
 
 Notes added to both the CSS Stylesheet and HTML doc.
-
 
 ---
 © 2021 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
